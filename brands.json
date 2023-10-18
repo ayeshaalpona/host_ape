@@ -1,0 +1,40 @@
+{ 
+  "brands": [
+    {
+        "id": 1,
+        "name": "Coca-Cola",
+        "branding": "Coca-Cola",
+        "img": "https://example.com/coca-cola.jpg"
+    },
+    {
+        "id": 2,
+        "name": "McDonald's",
+        "branding": "McDonald's",
+        "img": "https://example.com/mcdonalds.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Starbucks",
+        "branding": "Starbucks",
+        "img": "https://example.com/starbucks.jpg"
+    },
+    {
+        "id": 4,
+        "name": "PepsiCo",
+        "branding": "PepsiCo",
+        "img": "https://example.com/pepsico.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Nestlé",
+        "branding": "Nestlé",
+        "img": "https://example.com/nestle.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kellogg's",
+        "branding": "Kellogg's",
+        "img": "https://example.com/kelloggs.jpg"
+    }
+]
+}
